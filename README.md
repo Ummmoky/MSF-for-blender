@@ -3,7 +3,13 @@ The Mega Startup File, updated every once in a while is a useful startup file wi
 
 List of features:
 
-Wood Texture (from Syncretic 3d)
+Refractive Glass (from Ducky3D)
+
+Bubble Shader (from Decoded)
+
+Iridescent Shader (from Ducky3D)
+
+Wood Texture (from Syncretic 3D)
 
 Voronoi Crackle
 
