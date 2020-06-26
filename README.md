@@ -3,6 +3,8 @@ The Mega Startup File, updated every once in a while is a useful startup file wi
 
 List of features:
 
+Glitter Shader
+
 Refractive Glass (from Ducky3D)
 
 Bubble Shader (from Decoded)
